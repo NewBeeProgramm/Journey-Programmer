@@ -1,7 +1,11 @@
 1.rencana konten
 -Belajar PHP
+ *Framework LARAVEL
+ *Framework Codeigniter
 membuat video javascript
 interview
 -Belajar Javascript
+ *Framework AngularJS
+ *Framework VueJS
 vlog
 
