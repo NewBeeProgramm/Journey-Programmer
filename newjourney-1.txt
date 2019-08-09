@@ -5,6 +5,8 @@ membuat video javascript
 -Belajar Javascript
  *Framework AngularJS
  *Framework VueJS
+ *Framework NodeJS
 vlog
 belajar python
+ *framework Django
 
