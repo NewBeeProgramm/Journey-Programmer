@@ -1,7 +1,7 @@
-rencana konten
-
-
+1.rencana konten
+-Belajar PHP
 membuat video javascript
 interview
+-Belajar Javascript
 vlog
-framework laravel 5,8
+
