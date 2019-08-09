@@ -7,4 +7,4 @@ interview
  *Framework AngularJS
  *Framework VueJS
 vlog
-
+belajar python
